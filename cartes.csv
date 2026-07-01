@@ -1,0 +1,71 @@
+﻿id,type,theme,question,exploration
+GQ-01,standard,grandes_questions,Qu’est-ce qui compte vraiment dans une vie réussie ?,"Demandez à l’IA de répondre comme un enfant, un philosophe et une personne de 90 ans."
+GQ-02,standard,grandes_questions,Peut-on être libre ?,"Explorer les différentes formes de liberté : financière, émotionnelle, politique, spirituelle."
+GQ-03,standard,grandes_questions,Qu’est-ce que le bonheur ?,"Comparer les visions du bonheur selon la science, la philosophie et les traditions spirituelles."
+GQ-04,standard,grandes_questions,L’amour est-il un choix ?,Faire défendre à l’IA les deux positions opposées.
+GQ-05,standard,grandes_questions,Pourquoi avons-nous peur du changement ?,Explorer les mécanismes biologiques et psychologiques impliqués.
+GQ-06,standard,grandes_questions,Faut-il toujours dire la vérité ?,Imaginer un monde où tout le monde dit toujours la vérité.
+GQ-07,standard,grandes_questions,Que signifie réussir sa vie ?,Comparer les réponses selon différentes cultures.
+GQ-08,standard,grandes_questions,Existe-t-il un destin ?,Comparer les arguments du destin et du libre arbitre.
+GQ-09,standard,grandes_questions,Qu’est-ce qui nous rend réellement vivants ?,Explorer les réponses humaines les plus fréquentes.
+GQ-10,standard,grandes_questions,Que voudriez-vous comprendre avant de mourir ?,Explorer les grandes questions encore sans réponse. ⸻ 🧭 FAIRE LE POINT
+FP-01,standard,faire_le_point,Qu’est-ce qui occupe le plus votre esprit actuellement ?,Quels sujets préoccupent le plus les personnes en période de transition ?
+FP-02,standard,faire_le_point,Dans quel domaine de votre vie vous sentez-vous le plus aligné ?,Quels sont les signes d’un sentiment d’alignement ?
+FP-03,standard,faire_le_point,Quel changement appelle votre vie aujourd’hui ?,Pourquoi certains changements paraissent-ils si difficiles ?
+FP-04,standard,faire_le_point,Que repoussez-vous depuis trop longtemps ?,Explorer les mécanismes de la procrastination.
+FP-05,standard,faire_le_point,De quoi êtes-vous fier cette année ?,Pourquoi minimisons-nous souvent nos réussites ?
+FP-06,standard,faire_le_point,Qu’aimeriez-vous simplifier ?,Quels aspects de la vie moderne sont les plus complexes ?
+FP-07,standard,faire_le_point,Quel est votre principal défi du moment ?,Comment transformer un défi en opportunité d’apprentissage ?
+FP-08,standard,faire_le_point,Que devriez-vous probablement arrêter ?,Quelles habitudes empêchent souvent d’avancer ?
+FP-09,standard,faire_le_point,Que devriez-vous probablement commencer ?,Quels petits changements produisent souvent les plus grands résultats ?
+FP-10,standard,faire_le_point,"Si vous continuiez exactement comme aujourd’hui, où seriez-vous dans 5 ans ?",Comparer un scénario optimiste et un scénario pessimiste. ⸻ 📖 HISTOIRES
+HI-01,standard,histoires,Quelle rencontre a changé votre vie ?,Pourquoi certaines rencontres deviennent-elles décisives ?
+HI-02,standard,histoires,Quel moment n’oublierez-vous jamais ?,Comment se construisent les souvenirs marquants ?
+HI-03,standard,histoires,Quel échec vous a le plus appris ?,Quels enseignements naissent le plus souvent de l’échec ?
+HI-04,standard,histoires,Quel événement vous a rendu plus fort ?,Comment se développe la résilience ?
+HI-05,standard,histoires,Quelle décision a changé votre trajectoire ?,Quelles décisions transforment le plus souvent une vie ?
+HI-06,standard,histoires,Quel souvenir vous fait encore sourire ?,Pourquoi certains souvenirs restent-ils si vivants ?
+HI-07,standard,histoires,Quelle personne a le plus influencé votre vie ?,Qu’est-ce qui rend une personne inspirante ?
+HI-08,standard,histoires,Quel risque valait la peine d’être pris ?,Quels sont les regrets les plus fréquents en fin de vie ?
+HI-09,standard,histoires,Quel moment vous a fait grandir brutalement ?,Comment les épreuves accélèrent-elles parfois la maturité ?
+HI-10,standard,histoires,Quelle histoire aimez-vous raconter sur vous-même ?,Comment les récits façonnent-ils notre identité ? ⸻ 🌱 TALENTS
+TA-01,standard,talents,Qu’aimez-vous faire naturellement ?,Quels sont les signes d’un talent naturel ?
+TA-02,standard,talents,Quel savoir-faire aimeriez-vous transmettre ?,Quels savoirs risquent de disparaître ?
+TA-03,standard,talents,Que vous demande-t-on souvent de faire ?,Pourquoi les autres voient-ils parfois nos talents avant nous ?
+TA-04,standard,talents,Quel talent sous-estimez-vous ?,Pourquoi avons-nous du mal à reconnaître nos propres forces ?
+TA-05,standard,talents,Qu’est-ce qui vous passionne au point de perdre la notion du temps ?,Explorer la notion de “flow”.
+TA-06,standard,talents,Que faisiez-vous déjà enfant ?,Quels liens existent entre les passions d’enfance et les vocations ?
+TA-07,standard,talents,Quel talent aimeriez-vous développer davantage ?,Quels facteurs favorisent l’apprentissage durable ?
+TA-08,standard,talents,Qu’est-ce que vous faites mieux que la moyenne ?,Pourquoi est-il difficile d’évaluer sa propre valeur ?
+TA-09,standard,talents,Quelle compétence vous a été la plus utile ?,Quelles compétences restent précieuses quelle que soit l’époque ?
+TA-10,standard,talents,Quel savoir risque selon vous de disparaître ?,Quels métiers ou savoir-faire sont aujourd’hui menacés ? ⸻ 🌍 RÊVES & AUTRE POSSIBLE
+RE-01,standard,reves,Quel rêve n’avez-vous jamais abandonné ?,Pourquoi certains rêves survivent-ils toute une vie ?
+RE-02,standard,reves,"Si tout était possible, que créeriez-vous ?",Imaginer ce projet dans vingt ans.
+RE-03,standard,reves,Quel lieu aimeriez-vous voir exister ?,Quels lieux favorisent le lien humain ?
+RE-04,standard,reves,Quel projet aimeriez-vous réaliser avant de mourir ?,Identifier les premières étapes possibles.
+RE-05,standard,reves,Quel rêve avez-vous mis de côté ?,Pourquoi abandonne-t-on certains rêves ?
+RE-06,standard,reves,"Si l’argent n’était plus un problème, que feriez-vous ?",Quelles motivations dépassent la simple recherche d’argent ?
+RE-07,standard,reves,Quel rêve d’enfant vous suit encore ?,Pourquoi certains rêves persistent-ils si longtemps ?
+RE-08,standard,reves,Quel impact aimeriez-vous laisser ?,Quelles traces les humains cherchent-ils le plus souvent à laisser ?
+RE-09,standard,reves,À quoi ressemblerait une société idéale ?,Comparer plusieurs visions d’un monde idéal.
+RE-10,standard,reves,Quelle idée paraît folle aujourd’hui mais pourrait devenir normale demain ?,Explorer des idées autrefois jugées impossibles devenues banales.
+GQ-P01,premium,grandes_questions,Quelle croyance as-tu abandonnée avec l’âge ?,Demande à l’IA quelles croyances les humains abandonnent le plus souvent en vieillissant.
+GQ-P02,premium,grandes_questions,Qu’est-ce que presque tout le monde semble poursuivre mais qui ne t’intéresse pas ?,Demande à l’IA quelles sont les grandes quêtes collectives de notre époque.
+GQ-P03,premium,grandes_questions,"Si tu pouvais connaître une seule vérité absolue, laquelle choisirais-tu ?",Demande quelles sont les grandes questions auxquelles l’humanité aimerait répondre.
+GQ-P04,premium,grandes_questions,Quelle question mériterait d’être posée beaucoup plus souvent ?,Demande à l’IA de proposer cinq questions rarement posées mais essentielles.
+FP-P01,premium,faire_le_point,Quelle décision sais-tu déjà devoir prendre ?,Demande pourquoi certaines décisions restent bloquées pendant des années.
+FP-P02,premium,faire_le_point,Que continues-tu à faire uniquement par habitude ?,Demande quelles habitudes sont les plus difficiles à remettre en question.
+FP-P03,premium,faire_le_point,Quelle partie de ta vie aurait besoin de plus de courage ?,Demande sous quelles formes le courage se manifeste dans la vie quotidienne.
+FP-P04,premium,faire_le_point,Qu’est-ce qui mérite plus de place dans ta vie ?,Demande ce que les gens regrettent le plus de ne pas avoir assez cultivé.
+HI-P01,premium,histoires,Raconte un moment où tu t’es complètement trompé sur quelqu’un.,Demande pourquoi nous jugeons si vite les autres.
+HI-P02,premium,histoires,Quelle est la plus belle coïncidence de ta vie ?,Demande pourquoi les humains attribuent du sens aux coïncidences.
+HI-P03,premium,histoires,Quel moment te donne encore des frissons quand tu y repenses ?,Demande ce qui rend certaines expériences si marquantes.
+HI-P04,premium,histoires,Quelle histoire de famille ne devrait jamais être oubliée ?,Demande pourquoi les récits familiaux sont si importants.
+TA-P01,premium,talents,Quel talent possèdes-tu que peu de gens connaissent ?,Demande combien de talents restent invisibles toute une vie.
+TA-P02,premium,talents,"Si tu devais enseigner une seule chose au monde entier, laquelle serait-ce ?",Demande quels savoirs sont les plus universels.
+TA-P03,premium,talents,Quel savoir-faire aimerais-tu voir davantage valorisé ?,Demande quels métiers ou talents sont sous-estimés aujourd’hui.
+TA-P04,premium,talents,Qu’est-ce qui te paraît facile alors que beaucoup trouvent cela difficile ?,Demande pourquoi certains talents semblent naturels.
+RE-P01,premium,reves,"Si tu pouvais créer un lieu idéal, à quoi ressemblerait-il ?",Demande à l’IA de décrire ce lieu en détail.
+RE-P02,premium,reves,Quel monde aimerais-tu laisser aux enfants qui naîtront demain ?,Demande quelles transformations pourraient rendre ce monde possible.
+RE-P03,premium,reves,"Si aucune limite n’existait, quel projet te ferait vibrer ?",Demande à l’IA d’imaginer les premières étapes pour le rendre réel.
+RE-P04,premium,reves,Quel rêve mériterait selon toi d’être collectif plutôt qu’individuel ?,Demande à l’IA quels grands rêves ont rassemblé les humains dans l’histoire.
