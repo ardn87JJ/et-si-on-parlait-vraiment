@@ -17,6 +17,12 @@ Toutes les modifications importantes du projet sont consignées ici.
 - Probabilité configurable et catalogue préparatoire des cinq Jokers.
 - Apparition animée des cartes et actions de poursuite de la partie.
 - Ressources WebP optimisées à partir des fonds et de la planche Joker.
+- Déploiement automatique de la branche `main` vers GitHub Pages.
+
+### Corrigé
+
+- Chemins Vite et ressources graphiques compatibles avec le sous-chemin GitHub
+  Pages `/et-si-on-parlait-vraiment/`.
 
 ### Vérifié
 
@@ -24,3 +30,4 @@ Toutes les modifications importantes du projet sont consignées ici.
 - Build de production Vite.
 - Démarrage du serveur de prévisualisation.
 - Accessibilité HTTP des quinze ressources graphiques dérivées.
+- Build de production vérifié avec le chemin GitHub Pages.

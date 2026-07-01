@@ -3,6 +3,10 @@ import type { JokerDefinition, ThemeDefinition } from '../domain/types';
 export const JOKER_PROBABILITY = 0.12;
 export const WHEEL_SPIN_DURATION_MS = 4_800;
 
+export function assetUrl(path: string): string {
+  return `${import.meta.env.BASE_URL}${path.replace(/^\/+/u, '')}`;
+}
+
 export const THEMES: readonly ThemeDefinition[] = [
   {
     id: 'grandes_questions',
@@ -46,31 +50,30 @@ export const JOKERS: readonly JokerDefinition[] = [
     id: 'libre',
     name: 'Carte Libre',
     effect: 'Suivez l’instruction indiquée sur la carte.',
-    imageUrl: '/assets/jokers/libre.webp',
+    imageUrl: assetUrl('assets/jokers/libre.webp'),
   },
   {
     id: 'futur',
     name: 'Carte Futur',
     effect: 'Suivez l’instruction indiquée sur la carte.',
-    imageUrl: '/assets/jokers/futur.webp',
+    imageUrl: assetUrl('assets/jokers/futur.webp'),
   },
   {
     id: 'ia',
     name: 'Carte IA',
     effect: 'Suivez l’instruction indiquée sur la carte.',
-    imageUrl: '/assets/jokers/ia.webp',
+    imageUrl: assetUrl('assets/jokers/ia.webp'),
   },
   {
     id: 'miroir',
     name: 'Carte Miroir',
     effect: 'Suivez l’instruction indiquée sur la carte.',
-    imageUrl: '/assets/jokers/miroir.webp',
+    imageUrl: assetUrl('assets/jokers/miroir.webp'),
   },
   {
     id: 'opposee',
     name: 'Carte Opposée',
     effect: 'Suivez l’instruction indiquée sur la carte.',
-    imageUrl: '/assets/jokers/opposee.webp',
+    imageUrl: assetUrl('assets/jokers/opposee.webp'),
   },
 ] as const;
-

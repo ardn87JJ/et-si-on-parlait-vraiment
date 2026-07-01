@@ -41,3 +41,12 @@ configurable de Joker et les actions « Nouvelle carte » et « Relancer la roue
 Les fonctionnalités futures sont recensées dans [ROADMAP.md](./ROADMAP.md).
 L’organisation technique est décrite dans [ARCHITECTURE.md](./ARCHITECTURE.md).
 
+## Mise en ligne
+
+Chaque push sur `main` déclenche le workflow GitHub Pages. Après un déploiement
+réussi, l’application est disponible à l’adresse :
+
+<https://ardn87jj.github.io/et-si-on-parlait-vraiment/>
+
+Le dépôt doit utiliser `Settings` → `Pages` → `GitHub Actions` comme source de
+publication.

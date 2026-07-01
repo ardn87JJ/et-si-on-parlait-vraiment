@@ -1,4 +1,4 @@
-import { THEMES } from '../config/game';
+import { assetUrl, THEMES } from '../config/game';
 import type { CardEdition, DrawResult, ThemeId } from '../domain/types';
 
 interface DrawnCardProps {
@@ -9,24 +9,24 @@ interface DrawnCardProps {
 
 const CARD_BACKGROUNDS: Record<ThemeId, Record<CardEdition, string>> = {
   grandes_questions: {
-    standard: '/assets/cards/01_Grandes_Questions_Standard.webp',
-    premium: '/assets/cards/06_Grandes_Questions_Premium.webp',
+    standard: assetUrl('assets/cards/01_Grandes_Questions_Standard.webp'),
+    premium: assetUrl('assets/cards/06_Grandes_Questions_Premium.webp'),
   },
   faire_le_point: {
-    standard: '/assets/cards/02_Faire_Le_Point_Standard.webp',
-    premium: '/assets/cards/07_Faire_Le_Point_Premium.webp',
+    standard: assetUrl('assets/cards/02_Faire_Le_Point_Standard.webp'),
+    premium: assetUrl('assets/cards/07_Faire_Le_Point_Premium.webp'),
   },
   histoires: {
-    standard: '/assets/cards/03_Histoires_Standard.webp',
-    premium: '/assets/cards/08_Histoires_Premium.webp',
+    standard: assetUrl('assets/cards/03_Histoires_Standard.webp'),
+    premium: assetUrl('assets/cards/08_Histoires_Premium.webp'),
   },
   talents: {
-    standard: '/assets/cards/04_Talents_Standard.webp',
-    premium: '/assets/cards/09_Talents_Premium.webp',
+    standard: assetUrl('assets/cards/04_Talents_Standard.webp'),
+    premium: assetUrl('assets/cards/09_Talents_Premium.webp'),
   },
   reves: {
-    standard: '/assets/cards/05_Reves_Standard.webp',
-    premium: '/assets/cards/10_Reves_Premium.webp',
+    standard: assetUrl('assets/cards/05_Reves_Standard.webp'),
+    premium: assetUrl('assets/cards/10_Reves_Premium.webp'),
   },
 };
 
@@ -79,4 +79,3 @@ export function DrawnCard({
     </div>
   );
 }
-

@@ -88,3 +88,8 @@ historique et cartes personnalisées pourront se brancher sur les résultats de
 tirage. Import/export et PDF resteront des adaptateurs périphériques. Aucun de
 ces modules n’est implémenté en V1.
 
+## Déploiement
+
+GitHub Actions vérifie et construit l’application à chaque push sur `main`,
+puis publie le dossier `dist` avec GitHub Pages. La base Vite et les ressources
+publiques utilisent le sous-chemin `/et-si-on-parlait-vraiment/`.
